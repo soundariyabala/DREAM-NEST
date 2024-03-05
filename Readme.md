@@ -1,7 +1,5 @@
 DREAM NEST: A Full-stack Home Rental Application
 
-DREAM NEST: A Full-stack Home Rental Application
-
 DREAM NEST is a comprehensive and Responsive full-stack project designed for home rentals. Let’s explore its various features and functionalities:
 
 1.Sign Up and Log In:
